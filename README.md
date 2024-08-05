@@ -1,4 +1,4 @@
-# *This is the repo  project for RAG application for movies searching ,of which the user could search for any relevant PLOT he/she wants then the algrithim will suggest possible movies
+## This is the repo  project for RAG application for movies searching ,of which the user could search for any relevant PLOT he/she wants then the algrithim will suggest possible movies
    Also the lewwarning path toward llms and tansformers
 
 ## The technologies used :
